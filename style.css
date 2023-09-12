@@ -1,0 +1,116 @@
+#fiel{
+    width: 500px;
+    height: 220px;
+    background-color: rgb(252, 252, 252);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 15px;
+    
+    
+
+}
+
+#tit{
+    color: rgb(0, 0, 0);
+}
+
+#lobo{
+    
+align-items: center;
+justify-content: center;
+text-align: justify;
+border-radius: 15px;
+height: 26 0px;
+width: 800px;
+background-color: rgba(8, 193, 235, 0.906);
+color: rgb(255, 255, 255);
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-weight: bold;
+
+}
+
+#ilb{
+    background-size: 90%;
+}
+
+#flb{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#bd{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 80vh;
+    background-size:cover
+}
+#ul{
+    margin-left: 92vh;
+}
+
+#gato{
+    
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border-radius: 15px;
+    height: 26 0px;
+    width: 800px;
+    background-color: #15b6da ;
+    color: rgb(0, 0, 0);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    }
+
+    #fgt{
+        background-size: cover;
+    }
+
+    #ffgt{
+        color: white;
+    }
+#aguia{
+    
+     align-items: center;
+     justify-content: center;
+     text-align: center;
+     border-radius: 15px;
+     height: 26 0px;
+     width: 800px;
+     background-color: #24c6c4;
+     color: rgb(251, 249, 249);
+     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     font-weight: bold;
+     
+        }
+#tubarao{
+    
+     align-items: center;
+     justify-content: center;
+     text-align: center;
+     border-radius: 15px;
+     height: 26 0px;
+     width: 800px;
+     background-color: #74A1F0;
+     color: rgb(0, 0, 0);
+     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     font-weight: bold;
+            }
+
+#btt{
+    background-color: #48ecd994; /* cor do fundo do botão */
+  color: #000000; /* cor do texto do botão */
+  border-radius: 5px; /* bordas arredondadas */
+  padding: 10px 20px; /* espaçamento interno */
+  font-size: 16px; /* tamanho da fonte */
+  font-weight: bold; /* negrito */
+  text-transform: uppercase; /* texto em caixa alta */
+  border:none; /* sem borda */
+  cursor: pointer; /* cursor de mão ao passar o mouse */
+}
+

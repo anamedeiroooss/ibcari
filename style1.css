@@ -1,0 +1,57 @@
+input[type=radio] {
+    margin-right: 10px; /* adiciona uma margem à direita para separar os botões */
+  }
+  
+  /* Estilizando o rótulo do input do tipo radio */
+  label {
+     /* torna o texto em negrito */
+    display: inline-block; /* torna o rótulo um elemento em bloco para que possa ser estilizado com margens */
+    margin-bottom: 10px; /* adiciona uma margem abaixo para separar as perguntas */
+  }
+  
+  /* Estilizando o formulário */
+  form {
+    background-color: #4bc8d9d8; /* adiciona uma cor de fundo ao formulário */
+    padding: 20px; /* adiciona um espaçamento interno ao formulário */
+    width: 600px; /* define uma largura máxima para o formulário */
+    margin: 0 auto; /* centraliza o formulário na página */
+    border: 2px solid #020202; /* adiciona uma borda ao formulário */
+    border-radius: 5px; /* arredonda os cantos do formulário */
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+  }
+  
+  /* Estilizando o botão de envio */
+  input[type=button] {
+    background-color: #a1eff8; /* adiciona uma cor de fundo ao botão */
+    color: rgb(255, 255, 255); /* define a cor do texto no botão como branco */
+    border: none; /* remove a borda do botão */
+    padding: 10px 20px; /* adiciona um espaçamento interno ao botão */
+    text-align: center; /* centraliza o texto no botão */
+    text-decoration: none; /* remove a decoração do texto */
+    display: inline-block; /* torna o botão um elemento em bloco para que possa ser estilizado com margens */
+    font-size: 16px; /* define o tamanho da fonte no botão */
+    margin-top: 10px; /* adiciona uma margem acima para separar o botão do resto do formulário */
+    cursor: pointer; /* adiciona um cursor de mão ao botão para indicar que ele é clicável */
+    border-radius: 5px; /* arredonda os cantos do botão */
+  }
+  
+  /* Estilizando o botão de envio quando o mouse passa por cima */
+ input[type=button]:hover {
+    background-color: #5ae1ea; /* adiciona uma cor de fundo mais escura ao botão */
+
+  }
+  #bd{
+    background-size: 100%;
+  }
+  #btn{
+    background-color: #09777be8; /* cor do fundo do botão */
+  color: #fcfcfc; /* cor do texto do botão */
+  border-radius: 5px; /* bordas arredondadas */
+  padding: 10px 20px; /* espaçamento interno */
+  font-size: 16px; /* tamanho da fonte */
+  font-weight: bold; /* negrito */
+  text-transform: uppercase; /* texto em caixa alta */
+  border: none; /* sem borda */
+  cursor: pointer; /* cursor de mão ao passar o mouse */
+}
